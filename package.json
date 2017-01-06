@@ -1,5 +1,5 @@
 {
-  "name": "devsu-eslint-config-node",
+  "name": "eslint-config-devsu-node",
   "version": "1.0.0",
   "description": "Devsu's ESLint shareable configs for node applications.",
   "main": "eslint.json",
