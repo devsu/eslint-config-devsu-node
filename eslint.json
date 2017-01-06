@@ -11,6 +11,7 @@
 
     // # Possible Errors
     // # http://eslint.org/docs/rules/#possible-errors
+    "no-console": ["warn"],
     "no-cond-assign": [ "error", "always" ],
     "no-control-regex": "error",
     "no-debugger": "error",
@@ -40,7 +41,7 @@
     "dot-location": ["error", "property"],
     "dot-notation": ["error"],
     "eqeqeq": ["error"],
-    "no-alert": "warn",
+    "no-alert": "error",
     "no-else-return": "error",
     "no-empty-function": "error",
     "no-eval": "error",
@@ -62,7 +63,7 @@
     "no-useless-escape": "error",
     "no-useless-return": "error",
     "no-void": "error",
-    "no-warning-comments": ["error", { "terms": ["todo", "fixme", "remove", "when"], "location": "anywhere" }],
+    "no-warning-comments": ["warn", { "terms": ["todo", "fixme", "remove", "when"], "location": "anywhere" }],
     "no-with": "error",
     "radix": "warn",
     "wrap-iife": ["error", "outside"],

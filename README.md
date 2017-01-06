@@ -1,5 +1,3 @@
-
-
 # eslint-config-node
 Devsu's ESLint shareable configs for node applications.
 
@@ -8,7 +6,7 @@ Devsu's ESLint shareable configs for node applications.
 Add `eslint` and `eslint-config-devsu-node` to `devDependencies` in your `package.json`:
 
 ```
-npm install -save-dev eslint eslint-config-devsu-node
+npm install --save-dev eslint eslint-config-devsu-node
 ```
 
 In your project root, create/edit `.eslintrc`:

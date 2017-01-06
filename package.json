@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-devsu-node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Devsu's ESLint shareable configs for node applications.",
   "main": "eslint.json",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devsu/eslint-config-node.git"
+    "url": "git+https://github.com/devsu/eslint-config-devsu-node.git"
   },
   "keywords": [
     "eslint",
@@ -17,7 +17,7 @@
   "author": "Devsu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devsu/eslint-config-node/issues"
+    "url": "https://github.com/devsu/eslint-config-devsu-node/issues"
   },
-  "homepage": "https://github.com/devsu/eslint-config-node#readme"
+  "homepage": "https://github.com/devsu/eslint-config-devsu-node#readme"
 }
