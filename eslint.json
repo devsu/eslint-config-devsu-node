@@ -106,7 +106,7 @@
     "max-params": ["warn", 3],
     "max-statements-per-line": [ "error" ],
     "max-statements": ["error", 15, {"ignoreTopLevelFunctions": true}],
-    "new-cap": [ "error" ],
+    "new-cap": ["error", {"capIsNewExceptionPattern": "^mongoose\\.."}],
     "new-parens": "error",
     "no-array-constructor": "error",
     "no-bitwise": ["error"],
