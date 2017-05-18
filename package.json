@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-devsu-node",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Devsu's ESLint shareable configs for node applications.",
   "main": "eslint.json",
   "repository": {
