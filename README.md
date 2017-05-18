@@ -1,5 +1,10 @@
-# eslint-config-node
+# eslint-config-devsu-node (deprecated)
 Devsu's ESLint shareable configs for node applications.
+
+## Deprecated
+
+This module is now deprecated, this configurations will be available through 
+the package `eslint-config-devsu` extending `devsu/node` config. 
 
 ## Usage
 
